@@ -1,0 +1,11 @@
+location,pm25,pm10,co,no2,so2,o3
+Hyderabad_Center,45.2,78.5,0.8,32.1,12.4,55.3
+Hyderabad_Industrial,120.5,210.3,2.1,85.6,45.2,30.1
+Hyderabad_Suburbs,18.3,35.2,0.4,15.2,5.1,68.4
+Hyderabad_Highway,95.4,165.8,1.8,72.3,38.7,25.6
+Hyderabad_Residential,28.7,52.1,0.6,22.4,8.9,72.1
+Hyderabad_OldCity,67.3,112.4,1.2,48.9,22.1,42.3
+Hyderabad_Airport,38.9,68.7,0.7,28.6,10.3,61.2
+Hyderabad_IT_Corridor,22.1,41.3,0.5,18.7,6.8,75.4
+Hyderabad_Market,155.2,265.4,2.8,102.3,58.4,18.9
+Hyderabad_Lake_Area,12.4,24.6,0.3,10.1,3.2,82.6
